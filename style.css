@@ -8,11 +8,13 @@ body {
 
 header {
     background-color: #333333;
+    text-align: center;
 }
 
 h1 {
     color: #eee;
     font-size: 28px;
+    margin-bottom: 2rem;
 }
 
 h2 {
@@ -38,6 +40,7 @@ h2 {
 
 #contact-info {
     width: 30%;
+    line-height: 1.5;
 }
 
 #contact-info a{
